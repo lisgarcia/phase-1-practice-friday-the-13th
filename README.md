@@ -7,7 +7,7 @@ Create an homage to Camp Crystal Lake's most infamous campers, Jason Vorhees.
 Run `json-server --watch db.json`
 
 ## Challenge 1
-For each movie returned from `http://localhost:3000/movies` create an image and add it to the `movie-list` nav element.
+For each movie returned from `` create an image and add it to the `movie-list` nav element.
 
 ## Challenge 2
 As soon as the page loads, we should see the details of the **first** movie in the dataset.
